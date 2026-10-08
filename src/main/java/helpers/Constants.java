@@ -82,9 +82,9 @@ public class Constants {
   public static final boolean kMentorFallback = true;
 
   public static final String kUpdateUrl =
-      "https://raw.githubusercontent.com/NullCraft66/GrizzlyTime-Pi-Edition/main/version.txt";
+      "https://raw.githubusercontent.com/NullCraft66/Customizable-GrizzlyTime/main/version.txt";
   public static final String kReleaseUrl =
-      "https://github.com/NullCraft66/GrizzlyTime-Pi-Edition/releases";
+      "https://github.com/NullCraft66/Customizable-GrizzlyTime/releases";
 
   // user states
   public static final int kIdDoesNotExist = -1;

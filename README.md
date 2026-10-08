@@ -1,4 +1,4 @@
-# GrizzlyTime PI Edition
+# Customizable GrizzlyTime
 
 GrizzlyTime PI Edition is a Raspberry Pi deployment of the GrizzlyTime JavaFX time-logging application. It records student and mentor attendance in Google Sheets and supports USB barcode scanners.
 
